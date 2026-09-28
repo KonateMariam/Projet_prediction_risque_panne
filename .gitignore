@@ -1,0 +1,9 @@
+﻿.venv/
+venv/
+__pycache__/
+*.pyc
+app_sauvegarde.py
+.streamlit/secrets.toml
+.vscode/
+.idea/
+Thumbs.db
